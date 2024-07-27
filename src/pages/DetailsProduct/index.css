@@ -1,0 +1,31 @@
+.product-details{
+    width:430px;
+    border: 4px solid black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    overflow: hidden;
+    gap: 5px;
+    padding: 10px;
+    box-shadow: 18px 24px 100px -15px rgba(34, 60, 80, 0.6);
+    cursor: pointer;
+    align-items: center;
+}
+.details-img{
+    width: 400px ;
+    height: 450px;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+    text-align: center;
+    align-items: center;
+    gap: 40px;
+}
+.back{
+    width: 200px;
+    background-color: brown;
+    color:bisque;
+    border-color: brown;
+}

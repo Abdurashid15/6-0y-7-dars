@@ -1,0 +1,9 @@
+.er{
+    display: flex;
+    flex-direction: column;
+    margin-top:300px;
+    font-size: 150px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
